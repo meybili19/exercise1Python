@@ -62,4 +62,4 @@ Before running this project, you must have the following programs:
 
 ## Credits
 
-This project was developed by Meybili Olivares (https://github.com/meybili19)
+This project was developed by Meybili Olivares (https://github.com/meybili19).
